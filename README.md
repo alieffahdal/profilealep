@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://eng.unhas.ac.id/uploads_infor/small_default99_4b7a95a46c.jpg)"  />
+<img align="right" height="150" src="https://eng.unhas.ac.id/uploads_infor/small_default99_4b7a95a46c.jpg"  />
 
 ###
 
